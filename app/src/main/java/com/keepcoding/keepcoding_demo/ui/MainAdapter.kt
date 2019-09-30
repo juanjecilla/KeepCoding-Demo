@@ -1,9 +1,10 @@
-package com.keepcoding.keepcoding_demo
+package com.keepcoding.keepcoding_demo.ui
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.keepcoding.keepcoding_demo.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_list.view.*
 import java.util.*
